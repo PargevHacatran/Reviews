@@ -1,0 +1,46 @@
+.container{
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.title{
+    text-align: center;
+}
+
+.name{
+    position: absolute;
+    top: 30px;
+    left: 0px;
+}
+
+.comment{
+    position: absolute;
+    top: 80px;
+    left: 0px;
+}
+
+.form__control{
+    position: absolute;
+    width: 200px;
+    height: 100px;
+    top: 100px;
+}
+
+.btn{
+    position: absolute;
+    top: 220px;
+}
+
+#comment__place{
+    position: absolute;
+    width: 1440px;
+    height: 300px;
+    top: 300px;
+}
+
+#commentField{
+    width: 350px;
+    height: 200px;
+    display: inline-block;
+}
